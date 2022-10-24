@@ -2,7 +2,7 @@
 - 👀 I’m interested in Statistics and Data Science
 - 🌱 I’m currently learning nothing and everything
 - 💞️ I’m looking to collaborate on R and Python 
-- 📫 How to reach me LinkedIn 
+- 📫 How to reach me LinkedIn https://www.linkedin.com/in/eralda-dhamo-gjika-71879128/?originalSubdomain=al 
 
 <!---
 EGjika/EGjika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
